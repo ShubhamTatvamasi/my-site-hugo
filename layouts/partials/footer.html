@@ -1,0 +1,9 @@
+<div class="section" id="footer"><!-- Begin Footer section -->
+    <div class="container has-text-centered"><!-- Begin Footer container -->
+    {{ if .Site.Params.footerText }}
+        {{ .Site.Params.footerText | markdownify }}
+    {{ else }}
+        <span class="footer-text">© 2018. All Rights Reserved. Made with <i class="fa fa-heart"></i> and <i class="fa fa-coffee"></i> by Shubham Tatvamasi</span>
+    {{ end }}
+    </div><!-- End Footer container -->
+</div><!-- End Footer section -->
