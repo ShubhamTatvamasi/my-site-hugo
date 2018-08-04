@@ -9,4 +9,10 @@ I am Blockchain Architect and Ethereum open source contributor, I have been work
 
 Some **Technologies** I play with:
 
-Ethereum, Hyperledger, Chaincode, Solidity, Smart Contracts, Decentralized Web Applications, Corporate Blockchains, Hedera Hashgraph, Decentralized Exchange Platform, CryptoCurrency Mining Servers, R3 Corda, DApp, GoLang, NodeJS, ExpressJS, AngularJS, MongoDB, DevOps.
+**Front End**: HTML/CSS, JavaScript, Angular, React
+
+**Back End**: Node.js, Express.js, MongoDB
+
+**Blockchain**: Ethereum, Hyperledger, Solidity, Chaincode, Smart Contracts, DApps, Hedera Hashgraph, R3 Corda, Centralized & Decentralized Exchange Platform, CryptoCurrency Mining Servers
+
+**DevOps**: Linux, Git, GoLang, Docker, Kubernetes
