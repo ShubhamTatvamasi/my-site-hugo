@@ -11,8 +11,8 @@ Some **Technologies** I play with:
 
 **Front End**: HTML/CSS, JavaScript, Angular, React
 
-**Back End**: Node.js, Express.js, MongoDB
+**Back End**: Node.js, Express.js, MongoDB, Flask, MySql
 
 **Blockchain**: Ethereum, Hyperledger, Solidity, Chaincode, Smart Contracts, DApps, Hedera Hashgraph, R3 Corda, Centralized & Decentralized Exchange Platform, CryptoCurrency Mining Servers
 
-**DevOps**: Linux, Git, GoLang, Docker, Kubernetes
+**DevOps**: Linux, Git, GoLang, Python, Docker, Kubernetes
