@@ -19,6 +19,6 @@ Some **Technologies** I play with:
 
 **Cloud**: AWS, GCP, Azure, Heroku
 
-**AI**: Jupyterhub, Jupyter Notebook
+**AI**: Kubeflow, Jupyterhub, Jupyter Notebook
 
 **Tools**: Github, Gitlab, Jira, Trello
