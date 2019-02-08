@@ -21,4 +21,4 @@ Some **Technologies** I play with:
 
 **AI**: Kubeflow, Jupyterhub, Jupyter Notebook
 
-**Tools**: Github, Gitlab, Jira, Trello
+**Tools**: Git, Github, Gitlab, Jira, Trello
