@@ -15,7 +15,7 @@ Some **Technologies** I play with:
 
 **Linux**: Ubuntu, LinuxMint, CentOS
 
-**DevOps**: Docker, Kubernetes, Jenkins, Nginx, Apache
+**DevOps**: Docker, Kubernetes, OpenStack, Jenkins, Nginx, Apache
 
 **Cloud**: AWS, GCP, Azure, Heroku
 
